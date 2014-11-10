@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-ui-date</artifactId>
-    <version>0.0.5</version>
+    <version>0.0.6-SNAPSHOT</version>
     <name>angular-ui-date</name>
     <description>WebJar for angular-ui-date</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angular-ui-date</url>
         <connection>scm:git:https://github.com/webjars/angular-ui-date.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-ui-date.git</developerConnection>
-        <tag>angular-ui-date-0.0.5</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
